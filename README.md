@@ -26,8 +26,8 @@
 
 ### Pull Request
 
-+ [madlib-cli/pull/1](URL 'https://github.com/micgreene/madlib-cli/pull/1')
++ [pythonic-garage-band/pull/1](URL 'https://github.com/micgreene/pythonic-garage-band/pull/1')
 
 ### README
 
-+ [README.md](URL 'https://github.com/micgreene/madlib-cli/blob/dev/README.md')
++ [README.md](URL 'https://github.com/micgreene/pythonic-garage-band/blob/dev/README.md')
